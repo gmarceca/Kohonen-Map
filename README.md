@@ -10,6 +10,6 @@ The problem consists in classify each document by using 2 non-supervised techniq
 
 We built a hebbian learning algorithm NN able to reduce the high dimensionality problem (850) in 3 dimensions. Sanger's and Oja's learning rules were used in order to obtain the principal component vectors.
 
-### Ej2: Self-Organizing Map (SOM)
+### Ej2: Self-Organizing Feature Map (SOFM)
 
 We built a 2-D grid which maps the features of the inputs in a clustered representation for visualization. The algorithm is based on a competitive learning, an example of a Kohonen application.
