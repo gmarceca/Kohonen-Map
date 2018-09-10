@@ -1,4 +1,4 @@
-# SOM
+# SOFM
 
 ## Input Description
 
