@@ -1,5 +1,9 @@
 # SOFM
 
+<p align="center"> 
+    <img width="400" src="./sofm_visualization_v2.gif" alt="Self Organizing Map Visualization">
+</p>
+
 ## Input Description
 
 The dataset consists on text documents from Brasiliean companies classified in 9 categories. The original documents were pre-processed in order to obtain a Bag-Of-Words style. In this format each document is represented as a vector where each dimension corresponds to a specific word and its value represents the frecuency of that word within the document. Articles and prepositions were filtered.
