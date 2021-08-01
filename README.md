@@ -1,4 +1,4 @@
-# SOFM
+# Self Organized Feature Map
 
 <p align="center"> 
     <img width="400" src="./sofm_visualization_v2.gif" alt="Self Organizing Map Visualization">
